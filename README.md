@@ -6,7 +6,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=potaaatoo&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
+# Hackatime Stats (Join hack.club its insane i swear)
+![](https://github-readme-stats.hackclub.dev/api/wakatime?username=16644&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 ---
 [![](https://visitcount.itsvg.in/api?id=potaaatoo&icon=10&color=0)](https://visitcount.itsvg.in)
 
