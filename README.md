@@ -4,7 +4,7 @@ I'm a 14-year-old dev from France.
 I love exploring tech — especially web development, but I touch almost everything (Why not, right?).  
 Currently learning **CSS**, **JavaScript**, and other cool stuff 👀  
 
-If you want to get in touch, DM me on Discord: `_potaaato_backup`  
+If you want to get in touch, DM me on Discord: `overflow.dev`  
 Or send me an email: `potaaato.doodle894@passinbox.com`
 
 💡 Feeling generous? You can support me via Bitcoin:  
@@ -38,6 +38,5 @@ That **could be you**! Got a cool idea or a project? I’d love to collaborate!
 
 ---
 
-### ⚡ Fun fact
-I’m always looking for **creative projects** — LEGO, brickfilms, coding experiments…  
+Hey, you !
 If you have a wild idea, I’m ready to build it with you 🚀
