@@ -13,6 +13,8 @@ Or send me an email: `potaaato.doodle894@passinbox.com`
 I realized that to finish my projects, I need motivation — a pillar pushing me forward.  
 That **could be you**! Got a cool idea or a project? I’d love to collaborate!
 
+(PS: I'm switching usernames from Potaaato to Ovrflow.dev)
+
 ---
 
 ## 💻 Tech Stack
