@@ -5,7 +5,6 @@ I love exploring tech — especially web development, but I touch almost everyth
 Currently learning **CSS**, **JavaScript**, and other cool stuff 👀  
 
 If you want to get in touch, DM me on Discord: `overflow.dev`
-[![Discord Presence](https://lanyard.cnrad.dev/api/1409628562952163328?theme=dark&hideSpotify=true)](https://discord.com/users/1409628562952163328)
 Or send me an email: `potaaato.doodle894@passinbox.com`
 
 💡 Feeling generous? You can support me via Bitcoin:  
