@@ -13,9 +13,6 @@ Or send me an email: `potaaato.doodle894@passinbox.com`
 💡 Feeling generous? You can support me via Bitcoin:  
 `bc1q5gc6ntz02v5qfvrfts8kc8ru02mfxrv4fegf2f`
 
-I realized that to finish my projects, I need motivation — a pillar pushing me forward.  
-That **could be you**! Got a cool idea or a project? I’d love to collaborate!
-
 (PS: I'm switching usernames from Potaaato to Ovrflow.dev)
 
 ---
@@ -43,5 +40,5 @@ That **could be you**! Got a cool idea or a project? I’d love to collaborate!
 
 ---
 
-Hey, you !
+Hey, you !<br>
 If you have a wild idea, I’m ready to build it with you 🚀
