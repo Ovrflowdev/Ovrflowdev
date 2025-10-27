@@ -4,13 +4,13 @@ I'm a 14-year-old dev from France.
 I love exploring tech — especially web development, but I touch almost everything (Why not, right?).  
 Currently learning **CSS**, **JavaScript**, and other cool stuff 👀  
 
-If you want to get in touch, DM me on Discord: `overflow.dev`<br>
-<br>
-[![Discord Presence](https://lanyard.cnrad.dev/api/1317562586241433651)](https://discord.com/users/1317562586241433651)<br>
-<br>
-Or send me an email: `potaaato.doodle894@passinbox.com`
+If you want to get in touch, you can :
+Contact me through my website's form (coming soon 👀)
+Send me an email: `potaaato.doodle894@passinbox.com` (usually respond under my real personnal adress)
 
-💡 Feeling generous? You can support me via Bitcoin:  
+Btw, if I dont respond on Discord anymore, that's normal : **I left discord**. (I TOUCH GRASS NOW MUAHAHHAHAHA)
+
+💡 Feeling generous? You can support me via Bitcoin:
 `bc1q5gc6ntz02v5qfvrfts8kc8ru02mfxrv4fegf2f`
 
 (PS: I'm switching usernames from Potaaato to Ovrflow.dev)
