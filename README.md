@@ -4,9 +4,9 @@ I'm a 14-year-old dev from France.
 I love exploring tech — especially web development, but I touch almost everything (Why not, right?).  
 Currently learning **CSS**, **JavaScript**, and other cool stuff 👀  
 
-If you want to get in touch, you can :
-Contact me through my website's form (coming soon 👀)
-Send me an email: `potaaato.doodle894@passinbox.com` (usually respond under my real personnal adress)
+If you want to get in touch, you can : <br>
+Contact me through my website's form (coming soon 👀)<br>
+Send me an email: `potaaato.doodle894@passinbox.com` (usually respond under my real personnal adress)<br>
 
 Btw, if I dont respond on Discord anymore, that's normal : **I left discord**. (I TOUCH GRASS NOW MUAHAHHAHAHA)
 
