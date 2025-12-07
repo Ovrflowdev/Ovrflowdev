@@ -29,16 +29,5 @@ Btw, if I dont respond on Discord anymore, that's normal : **I left discord**. (
 
 ## 📊 GitHub & Hacktime Stats
 
-**Top languages I use on GitHub:**  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ovrflowdev&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
 **My coding activity on Hack Club:**  
 ![](https://github-readme-stats.hackclub.dev/api/wakatime?username=16644&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0)
-
-## 👀 Visitors
-[![](https://visitcount.itsvg.in/api?id=potaaatoo&icon=10&color=0)](https://visitcount.itsvg.in)
-
----
-
-Hey, you !<br>
-If you have a wild idea, I’m ready to build it with you 🚀
