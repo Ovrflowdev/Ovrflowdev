@@ -1,6 +1,6 @@
 # Hi, I'm Diego 👋
 
-I'm a 14-year-old dev from France.  
+I'm a 15-year-old dev from France.  
 I love exploring tech — especially web development, but I touch almost everything (Why not, right?).  
 Currently learning **CSS**, **JavaScript**, and other cool stuff 👀  
 
