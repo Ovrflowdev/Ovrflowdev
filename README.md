@@ -11,9 +11,7 @@ Send me an email: `potaaato.doodle894@passinbox.com` (usually respond under my r
 Btw, if I dont respond on Discord anymore, that's normal : **I left discord**. (I TOUCH GRASS NOW MUAHAHHAHAHA)
 
 💡 Feeling generous? You can support me via Bitcoin:
-`bc1q5gc6ntz02v5qfvrfts8kc8ru02mfxrv4fegf2f`
-
-(PS: I'm switching usernames from Potaaato to Ovrflow.dev)
+`bc1qsantt5salnpa8hzmdkly8aj7pkhtw72tdvt3xj`
 
 ---
 
