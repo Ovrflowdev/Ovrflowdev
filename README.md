@@ -14,5 +14,5 @@ Send me an email: `potaaato.doodle894@passinbox.com` (I usually respond under my
 ---
 
 ## 📊 GitHub & Hacktime Stats
-(but it's been a long time since I haven't even opened vscode lol) 
+(but it's been a long time since I haven't even opened vscode lol) <br>
 ![](https://github-readme-stats.hackclub.dev/api/wakatime?username=16644&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0)
